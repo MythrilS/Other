@@ -1,0 +1,8 @@
+multi encryption on
+audio copy hash off
+audio copy text off
+15645.0
+154645.0
+keys on
+salt on
+mode 1
